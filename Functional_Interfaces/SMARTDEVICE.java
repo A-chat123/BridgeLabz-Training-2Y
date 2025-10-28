@@ -12,7 +12,7 @@ public class SMARTDEVICE {
         turnOn.operate("AC");
         turnOn.operate("TV");
 
-        System.out.println("---- Turning Off Devices ----");
+        System.out.println("Turning Off Devices");
 
         turnOff.operate("Light");
         turnOff.operate("AC");
